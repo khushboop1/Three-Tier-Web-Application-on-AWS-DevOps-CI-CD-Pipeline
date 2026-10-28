@@ -1,5 +1,0 @@
-# cp terraform.tfvars.example terraform.tfvars   and edit
-region       = "ap-south-1"
-project      = "taskapp"
-allowed_cidr = "203.0.113.10/32"   # <-- your public IP (curl ifconfig.me) + /32
-# key_name   = "my-ec2-keypair"    # optional
