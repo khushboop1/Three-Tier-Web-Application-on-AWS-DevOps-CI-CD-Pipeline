@@ -1,9 +1,0 @@
-target/
-.rendered/
-.idea/
-*.iml
-.terraform/
-*.tfstate
-*.tfstate.*
-terraform.tfvars
-crash.log
